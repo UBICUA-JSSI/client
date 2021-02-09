@@ -1,0 +1,28 @@
+{
+    "didDocument": {
+        "@context": "https://www.w3.org/ns/did/v1",
+        "id": "did:sov:ubicua:CkUUjdPWfNo3UovcfNKD2v",
+        "verificationMethod": {
+            "type": "Ed25519VerificationKey2018",
+            "id": "did:sov:ubicua:CkUUjdPWfNo3UovcfNKD2v#key-1",
+            "publicKeyBase58": "7QRjHZaokZNPAH7t6nNsqDS7946Do68Ne2XUTXyzmS7c"
+        },
+        "authentication": {
+            "type": "Ed25519SignatureAuthentication2018",
+            "verificationMethod": "did:sov:ubicua:CkUUjdPWfNo3UovcfNKD2v#key-1"
+        },
+        "service": [{
+                "type": "authentication",
+                "serviceEndpoint": "http://ubicua.org:8080/authentication"
+            }, {
+                "type": "issued",
+                "serviceEndpoint": {
+                    "did:sov:V4SGRU86Z58d6TV7PBUe6f": "7QRjHZaokZNPAH7t6nNsqDS7946Do68Ne2XUTXyzmS7c",
+                    "issued" : {
+                        "did.sov.Rx8H1TmV3C9QaGqCfZEJax": "H2s9wyR6p5JNJMUozYHJJYcH7F4wV7j7Y4KXscaGFZFs",
+                        "issued": {}
+                    }
+                } 
+            }]
+    }
+}

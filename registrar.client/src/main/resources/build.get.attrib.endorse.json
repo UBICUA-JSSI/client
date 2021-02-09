@@ -1,0 +1,14 @@
+{
+    "endorser": "V4SGRU86Z58d6TV7PBUe6f",
+    "identifier": "Rx8H1TmV3C9QaGqCfZEJax",
+    "operation": {
+        "dest": "Rx8H1TmV3C9QaGqCfZEJax",
+        "raw": "{\"endpoint\":{\"authentication\":\"http://ubicua.org:8080/authentication\"}}",
+        "type": "100"
+    },
+    "protocolVersion": 2,
+    "reqId": 1608289168946194700,
+    "signatures": {
+        "Rx8H1TmV3C9QaGqCfZEJax": "2oP3XTqLqoSp1BGU7AhjEMSba8SAMtkL5Y5XA88NkArftjhSCoeAQhtJe9FzVNsmqSX3JC73DN1pw6uAmRxNyDDi"
+    }
+}

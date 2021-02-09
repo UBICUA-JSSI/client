@@ -1,0 +1,17 @@
+{
+    "endorser": "V4SGRU86Z58d6TV7PBUe6f",
+    "identifier": "R3yJEjRR7pavjN14x44qkD",
+    "operation": {
+        "data": {
+            "attr_names": ["height", "sex", "age", "name"],
+            "name": "goverment",
+            "version": "1.0"
+        },
+        "type": "101"
+    },
+    "protocolVersion": 2,
+    "reqId": 1608768694744941100,
+    "signatures": {
+        "R3yJEjRR7pavjN14x44qkD": "TJsegEKzPt3T6aD7PKea6Jo41tSHZeUv7QMysSgmmRJCSDdRgT9DLqsdDnwnvZn3fPv9SpKt7sVQUZk1H2tMkgt"
+    }
+}

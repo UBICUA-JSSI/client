@@ -1,0 +1,27 @@
+{
+    "op": "REPLY",
+    "result": {
+        "dest": "Rx8H1TmV3C9QaGqCfZEJax",
+        "data": "{\"dest\":\"Rx8H1TmV3C9QaGqCfZEJax\",\"identifier\":\"V4SGRU86Z58d6TV7PBUe6f\",\"role\":null,\"seqNo\":43,\"txnTime\":1607564717,\"verkey\":\"EbjVKX2Z9tYn9TBu5xh66wrWLxcmRVumjk1uEiaUy7nz\"}",
+        "reqId": 1608335190492636600,
+        "seqNo": 43,
+        "identifier": "V4SGRU86Z58d6TV7PBUe6f",
+        "txnTime": 1607564717,
+        "state_proof": {
+            "multi_signature": {
+                "signature": "RVZuTRdfWhyNWGVUkz1XB5ko4usiNssza2oeYZ38nGPAZV7BSXb5GezACvEM1vGXrgLo6K9xg95Vq6M34GG5vuPQyyTb8nNJyAcuVDWc8rRcC5cXrD1nH1u9CQGziSCxCS3TM76Zn4bNdTqTSz7LYV3PRyseRaFKAcmVxkBDvb54Mm",
+                "participants": ["Node4", "Node1", "Node3"],
+                "value": {
+                    "ledger_id": 1,
+                    "txn_root_hash": "A2PxjC9Qdsw94KE5UPqx9WBSN7jUuWc2EpwLkVYwqU1K",
+                    "timestamp": 1608334976,
+                    "state_root_hash": "6tBkJtivFPWUkWK4x2sCgLtZp4LWx3stdciVnuxHkVk6",
+                    "pool_state_root_hash": "6BMsMTERMLRTjjdDuR2shQodDZTHX1BoWJ4NnoZVkiwU"
+                }
+            },
+            "proof_nodes": "+QK7+LKgIJU17\/GNC2GL2HzlFh7dUxjWiP+XlWhhz2zBgFcSkUG4j\/iNuIt7ImlkZW50aWZpZXIiOiJWNFNHUlU4Nlo1OGQ2VFY3UEJVZTZmIiwicm9sZSI6bnVsbCwic2VxTm8iOjQzLCJ0eG5UaW1lIjoxNjA3NTY0NzE3LCJ2ZXJrZXkiOiJFYmpWS1gyWjl0WW45VEJ1NXhoNjZ3cldMeGNtUlZ1bWprMXVFaWFVeTdueiJ9+HGAgICg4uFbzWY4RWhs6lYGVLbExD+tGboycBJjYV1IcznXnyOAoJ5Zb9hApIWMCaDAkJOpA3U8B5YwMbwOSxAqya+lVwzQgICAgKASEa0f4PNaLU88oKtK44fCznFf+ZTQTMJG2fI+bgOipYCAgICAgPkBkaBin7fZ3tsVpObd8FBl0fvc8KiyTdBBjUArBPtu+tJv3KBnoaQPkkESU7TEvjCzjAceCmFZKMiJX3rj6hfgTYWRN4CgQEe2Q3JVRmZuqCsLxptne\/h7O+wJDuCh1arEBCleuiygY2835UHez+XisRY9Eew1Vbm6tu2ELOLxwoy3YTSmLmig4kIWU2iknICPSckCSM9OPWjwi8H\/U87zRBfD2ZznfHKgRACCCbNLp\/Y1alRAAWwlk5HNK8m01axYGilOiw+nIhmg0DbA0YMpA6ScQoumFuSIO63UTodbNOKncPKgznJrm92AgICgJHIm3oUOYlDrQlw95UDkRdOc2tGIsE9g2r12AjpJiUKgx723cWeVfoBvg1YGmR\/39fjz5pLKO1TbDCLXAdjJPb6gfSVcTjtW1SUW\/CcILmuBjzvybpOl4RlMkgp3hJTFe2qgktVDumZIQd9PMU2hwNJhGD46DO46PdNdoAUKrmtsQsmgHlvydM\/EZr1VFmYPQ+zIg3iUnLM7B1f9ZaS5qJWHbx+A",
+            "root_hash": "6tBkJtivFPWUkWK4x2sCgLtZp4LWx3stdciVnuxHkVk6"
+        },
+        "type": "105"
+    }
+}
